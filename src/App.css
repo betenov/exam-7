@@ -35,3 +35,14 @@ img{
 strong{
     display: block;
 }
+.orders{
+    display: flex;
+    justify-content: space-between;
+}
+.span-order{
+    margin-bottom: 40px;
+    display: block;
+}
+.name-order{
+    margin-bottom: 30px;
+}
